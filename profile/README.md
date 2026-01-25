@@ -91,15 +91,23 @@ I build for impact, not perfection. Every repo here represents a real problem I 
 - [me-lifeautomations-app](https://github.com/rr-ventures/me-lifeautomations-app) - Weekly coaching agents
 
 **Personal systems:**
-- me-imagemaxxing-app - Photo enhancement
-- me-healthos-app - Health tracking dashboard
-- me-youtubelearning-app - Auto note-taking
-- me-mixinglibrary-app - DJ workflow tools
+- [me-imagemaxxing-app](https://github.com/rr-ventures/me-imagemaxxing-app) - Photo enhancement
+- [me-healthos-app](https://github.com/rr-ventures/me-healthos-app) - Health tracking dashboard
+- [me-youtubelearning-app](https://github.com/rr-ventures/me-youtubelearning-app) - Auto note-taking
+- [me-mixinglibrary-app](https://github.com/rr-ventures/me-mixinglibrary-app) - DJ workflow tools
+- [me-wardrobestylist-app](https://github.com/rr-ventures/me-wardrobestylist-app) - Wardrobe + outfit helper
+- [me-tracklistlistener-app](https://github.com/rr-ventures/me-tracklistlistener-app) - Tracklist listener utility
+- [me-notionprompts-db](https://github.com/rr-ventures/me-notionprompts-db) - Prompt/rules database
+- [me-profiledownloader-app](https://github.com/rr-ventures/me-profiledownloader-app) - Profile downloader utility
+- [me-aihistory-app](https://github.com/rr-ventures/me-aihistory-app) - AI chat history portfolio
 
 **Products & experiments:**
-- product-aiproptech-app - Property tech tools
-- product-n8nautomations-shared - n8n workflow library
-- template-repopack - Standard repo template
+- [product-aiproptech-app](https://github.com/rr-ventures/product-aiproptech-app) - Property tech tools
+- [product-n8nautomations-shared](https://github.com/rr-ventures/product-n8nautomations-shared) - n8n workflow library
+- [product-propmentor-app](https://github.com/rr-ventures/product-propmentor-app) - Property mentor app
+- [product-canyoufeelit-web](https://github.com/rr-ventures/product-canyoufeelit-web) - Canyoufeelit website
+- [product-hunternew-web](https://github.com/rr-ventures/product-hunternew-web) - Hunter New product site
+- [template-repopack](https://github.com/rr-ventures/template-repopack) - Standard repo template
 
 ---
 
