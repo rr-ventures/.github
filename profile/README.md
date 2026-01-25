@@ -1,25 +1,106 @@
 # rr-ventures 🚀
 
-This GitHub org is my personal "build lab" — client work, product experiments, and my LifeOS automations.
+**Software engineer turned AI developer building real solutions for real problems.**
 
-## What lives here
-### 🧠 Personal systems
-- **LifeOS**: Notion + Beeminder + automation experiments
-- **Prompts DB**: prompts, rules, and templates I actually use
-- **Automation**: scheduled agents, workflows, and experiments
+## The Philosophy
 
-### 🧱 Products
-- Property tech tools, music projects, and "Canyoufeelit" stuff
+We're living in an age where there are no limitations anymore. If something in your life sucks, **build the AI tool to fix it.**
 
-### 🧑‍💻 Client work
-- Websites + SEO projects for local businesses
+- Can't keep up with local events? → Build an automation agent
+- Don't know what to wear? → Build a styling AI
+- Losing track of goals? → Build an AI life coach
+- Getting slowed down by music metadata? → Build a DJ library assistant
 
-## Quick navigation
-- Start here: `notime-world`
-- Personal OS: `me-LifeOS-app`
-- Automations: `me-lifeautomations-app`
-- n8n workflows: `product-n8nautomations-shared`
+**Stop living life on hard mode.** The tools are there. You just need to know how to ship.
 
-## My vibe
-I build fast, keep things lightweight, and aim for "useful > perfect".
-If a repo looks messy, it's probably mid-flight ✈️
+---
+
+## Featured Projects
+
+### 🤖 [me-imagemaxxing-app](https://github.com/rr-ventures/me-imagemaxxing-app)
+**Professional photo enhancement for dating & social media**
+- Generates 10 Fiverr-quality variations using researched editing presets
+- Next.js + Python image processing with Pillow
+- Turns 6/10 photos into 9/10 photos through pure editing
+
+### 🎯 [me-lifeautomations-app](https://github.com/rr-ventures/me-lifeautomations-app)
+**Scheduled agents that keep life on track**
+- Weekly coaching check-ins via email (personalized questions based on Notion goals)
+- Local event discovery for Newcastle & Sydney
+- n8n workflows + Python automation
+- Notion API integration for goal tracking
+
+### 🎵 [me-mixinglibrary-app](https://github.com/rr-ventures/me-mixinglibrary-app)
+**DJ library management + copyright flagging**
+- Auto-generate tracklists from mixes
+- Flag tracks with copyright risk before YouTube upload
+- Rekordbox XML integration
+- Supports CanYouFeelIt YouTube channel workflow
+
+### 💪 [me-healthos-app](https://github.com/rr-ventures/me-healthos-app)
+**Personal health dashboard + weekly summaries**
+- Unified dashboard for Fitbit, Beeminder, Withings data
+- Beautiful charts with Recharts
+- Automated weekly email summaries
+- Track weight, sleep, HRV, steps, goals
+
+### 📺 [me-youtubelearning-app](https://github.com/rr-ventures/me-youtubelearning-app)
+**Auto note-taking + curated learning feed**
+- Scrapes YouTube watch history
+- Generates notes from video transcripts
+- Curates personalized feed based on Notion goals
+- Background service for continuous learning
+
+### 🧠 [me-LifeOS-app](https://github.com/rr-ventures/me-LifeOS-app)
+**The automation layer connecting everything**
+- Notion + Beeminder + Fitbit + Tasker integration
+- Daily automated syncs (Fitbit → Beeminder)
+- Scheduled coaching triggers
+- Life system automation layer
+
+---
+
+## The Stack
+
+**Full-stack AI development:**
+- **Frontend**: Next.js, React, Tailwind CSS
+- **Backend**: Python, Node.js
+- **AI/LLM**: OpenAI, Claude API integration
+- **Automation**: n8n, cron jobs, scheduled agents
+- **APIs**: Notion, YouTube, Fitbit, Beeminder, Rekordbox
+
+**Philosophy:** Ship fast. Build what solves real problems. Automate ruthlessly.
+
+---
+
+## The Vibe
+
+This org is my "build lab" — where I turn life problems into working code.
+
+**If a repo looks messy, it's probably mid-flight.** ✈️
+
+I build for impact, not perfection. Every repo here represents a real problem I faced and decided to solve instead of tolerate.
+
+---
+
+## Navigation
+
+**Start here:**
+- [notime-world](https://github.com/rr-ventures/notime-world) - The umbrella vision
+- [me-LifeOS-app](https://github.com/rr-ventures/me-LifeOS-app) - The automation layer
+- [me-lifeautomations-app](https://github.com/rr-ventures/me-lifeautomations-app) - Weekly coaching agents
+
+**Personal systems:**
+- me-imagemaxxing-app - Photo enhancement
+- me-healthos-app - Health tracking dashboard
+- me-youtubelearning-app - Auto note-taking
+- me-mixinglibrary-app - DJ workflow tools
+
+**Products & experiments:**
+- product-aiproptech-app - Property tech tools
+- product-n8nautomations-shared - n8n workflow library
+- template-repopack - Standard repo template
+
+---
+
+💡 **Why this matters:** We don't have to live life on hard mode anymore. The secret is packaging intelligence to assist you in every area that needs help. That's what these repos represent.
