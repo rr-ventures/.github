@@ -27,9 +27,9 @@ Built for the everyday friction of moving between download tools, converters, tr
 ## Other Active Apps
 
 - [Life Automations](https://github.com/rr-ventures/me-lifeautomations-app): recurring personal systems for planning, reflection, and lightweight automation
-- [Notion Wardrobe Stylist](https://github.com/rr-ventures/me-wardrobestylist-app): outfit suggestions built around a real wardrobe and real decision-making constraints
-- [Personal AI Chat](https://github.com/rr-ventures/me-personalAIchat-app): a local-first chat app for private, offline, everyday AI use
-- `App Launcher`: internal tooling for running and managing all of my apps from one dashboard
+- [Wardrobe Stylist](https://github.com/rr-ventures/me-wardrobestylist-app): outfit suggestions built around a real wardrobe and real decision-making constraints
+- [Local Event Finder](https://github.com/rr-ventures/me-localeventfinder-app): weekly event discovery and digest for Newcastle and Sydney
+- [Local Leader](https://github.com/rr-ventures/product-localleader-web): marketing and AI content generation for local trade businesses
 
 ## Philosophy
 
